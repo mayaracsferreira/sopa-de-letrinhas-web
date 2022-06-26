@@ -11,7 +11,9 @@
     "@vue/composition-api": "^1.4.6",
     "vue": "^2.6.14",
     "vue-router": "^3.5.3",
-    "vuetify": "^2.6.6"
+    "vuetify": "^2.6.6",
+    "sopadeletrinhas-module1-js": "file:./libs/sopadeletrinhas-module1-js-1.0.0-beta.tgz",
+    "sopadeletrinhas-module2-js": "file:./libs/sopadeletrinhas-module2-js-1.0.0-beta.tgz"
   },
   "devDependencies": {
     "@types/node": "^16.11.25",
